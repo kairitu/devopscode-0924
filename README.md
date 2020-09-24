@@ -1,1 +1,3 @@
-# devopscode-0924
+# maven-project
+
+Simple Maven Project
